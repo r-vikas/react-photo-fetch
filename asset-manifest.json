@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/r-vikas/react-photo-fetch/static/css/main.392c8c06.chunk.css",
+    "main.js": "/r-vikas/react-photo-fetch/static/js/main.1b42e8e5.chunk.js",
+    "main.js.map": "/r-vikas/react-photo-fetch/static/js/main.1b42e8e5.chunk.js.map",
+    "runtime-main.js": "/r-vikas/react-photo-fetch/static/js/runtime-main.2e50e256.js",
+    "runtime-main.js.map": "/r-vikas/react-photo-fetch/static/js/runtime-main.2e50e256.js.map",
+    "static/js/2.e0b7fe86.chunk.js": "/r-vikas/react-photo-fetch/static/js/2.e0b7fe86.chunk.js",
+    "static/js/2.e0b7fe86.chunk.js.map": "/r-vikas/react-photo-fetch/static/js/2.e0b7fe86.chunk.js.map",
+    "index.html": "/r-vikas/react-photo-fetch/index.html",
+    "precache-manifest.63ad22813a01346281ade07c8df939e2.js": "/r-vikas/react-photo-fetch/precache-manifest.63ad22813a01346281ade07c8df939e2.js",
+    "service-worker.js": "/r-vikas/react-photo-fetch/service-worker.js",
+    "static/css/main.392c8c06.chunk.css.map": "/r-vikas/react-photo-fetch/static/css/main.392c8c06.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e50e256.js",
+    "static/js/2.e0b7fe86.chunk.js",
+    "static/css/main.392c8c06.chunk.css",
+    "static/js/main.1b42e8e5.chunk.js"
+  ]
+}
